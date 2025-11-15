@@ -6,5 +6,5 @@ import tailwindcss from "@tailwindcss/vite";
 export default defineConfig({
   plugins: [react(), tailwindcss()],
   // github repo path
-  base: '/femboy-detector/', 
+  base: '/femboy-detector', 
 });
